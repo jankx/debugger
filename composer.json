@@ -1,0 +1,22 @@
+{
+    "name": "jankx/debugger",
+    "type": "library",
+    "license": "MIT",
+    "description": "Debug tools for Jankx theme framework",
+    "autoload": {
+        "psr-4": {
+            "Jankx\\Debugger\\": "src/"
+        },
+        "files": [
+            "./debugger.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
